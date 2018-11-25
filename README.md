@@ -12,10 +12,10 @@ End-points:
 
 ========================= phone numbers end point =================
 
-To retrieve all customer details
+To retrieve all phone Number details
 GET - /api/v1/phoneNumbers
 
-To retrieve single Phone Number details by number
+To retrieve all Phone Number(s) for a single customer by userId
 GET - /api/v1/phoneNumbers/{userId}
 
 To Activate a number
